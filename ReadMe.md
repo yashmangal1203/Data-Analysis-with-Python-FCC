@@ -5,8 +5,8 @@ This Repository is **only** for those projects which are made as part of my **"D
 
 ## List of Python Projects for complete certification
 
-- [x] Mean-Variance-Standard Deviation Calculator
-- [ ] Demographic Data Analyzer
+- [x] Mean-Variance-Standard Deviation Calculator ([Link](Mean-Variance-Standard%20Deviation%20Calculator))
+- [x] Demographic Data Analyzer ([Link](Demographic%20Data%20Analyzer))
 - [ ] Medical Data Visualizer
 - [ ] Page View Time Series Visualizer
 - [ ] Sea Level Predictor
