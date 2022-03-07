@@ -7,7 +7,7 @@ This Repository is **only** for those projects which are made as part of my **"D
 
 - [x] Mean-Variance-Standard Deviation Calculator ([Link](Mean-Variance-Standard%20Deviation%20Calculator))
 - [x] Demographic Data Analyzer ([Link](Demographic%20Data%20Analyzer))
-- [ ] Medical Data Visualizer
+- [x] Medical Data Visualizer ([Link](Medical%20Data%20Visualizer))
 - [ ] Page View Time Series Visualizer
 - [ ] Sea Level Predictor
 
